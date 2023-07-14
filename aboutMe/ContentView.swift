@@ -17,7 +17,7 @@ struct ContentView: View {
             VStack {
                 Spacer()
                 Text("🍃🕊☘☁️🍈💚")
-                Text("Meet, Nikita!")
+                Text("This is Nikita <3")
                     .font(.title)
                     .fontWeight(.bold)
                     .foregroundColor(Color.white)
